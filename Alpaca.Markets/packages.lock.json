@@ -507,9 +507,9 @@
       },
       "Microsoft.NET.ILLink.Tasks": {
         "type": "Direct",
-        "requested": "[8.0.12, )",
-        "resolved": "8.0.12",
-        "contentHash": "FV4HnQ3JI15PHnJ5PGTbz+rYvrih42oLi/7UMIshNwCwUZhTq13UzrggtXk4ygrcMcN+4jsS6hhshx2p/Zd0ig=="
+        "requested": "[8.0.33, )",
+        "resolved": "8.0.33",
+        "contentHash": "dG9SM/0/zOTIE1UvSrveD1iDyEJjThqPqSnreExgqQWSoGWvze0esDi0faRk3C44IO1kqCeEX6AeCxWmBOppfw=="
       },
       "Microsoft.SourceLink.GitHub": {
         "type": "Direct",
