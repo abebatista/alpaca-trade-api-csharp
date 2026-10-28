@@ -28,7 +28,7 @@ jobs:
       run: dotnet build -c Documentation
 
     - name: Save Documentation
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         retention-days: 1
         compression-level: 0
